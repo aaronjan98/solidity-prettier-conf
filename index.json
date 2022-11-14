@@ -1,0 +1,18 @@
+{
+  "overrides": [
+    {
+      "files": "*.sol",
+      "options": {
+        "trailingComma": "es5",
+        "tabWidth": 4,
+        "semi": false,
+        "singleQuote": true,
+        "endOfLine": "lf",
+        "bracketSpacing": true,
+        "arrowParens": "avoid",
+        "requirePragma": false,
+        "insertPragma": false
+      }
+    }
+  ]
+}

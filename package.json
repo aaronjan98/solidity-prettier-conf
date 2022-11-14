@@ -1,0 +1,25 @@
+{
+  "name": "@aaronjan98/solidity-prettier-conf",
+  "version": "1.0.0",
+  "description": "My linter and formatter configurations for solidity projects",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/aaronjan98/solidity-prettier-conf.git"
+  },
+  "keywords": [
+    "soldity",
+    "javascript",
+    "hardhat",
+    "ethers"
+  ],
+  "author": "Aaron Janovitch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronjan98/solidity-prettier-conf/issues"
+  },
+  "homepage": "https://github.com/aaronjan98/solidity-prettier-conf#readme"
+}
