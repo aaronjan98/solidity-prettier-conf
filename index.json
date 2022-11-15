@@ -1,5 +1,6 @@
 {
   "$schema": "http://json.schemastore.org/prettierrc",
+  "endOfLine": "lf",
   "overrides": [
     {
       "files": "*.sol",
@@ -8,12 +9,22 @@
         "tabWidth": 4,
         "semi": false,
         "singleQuote": true,
-        "endOfLine": "lf",
         "bracketSpacing": true,
         "arrowParens": "avoid",
         "requirePragma": false,
         "insertPragma": false
       }
-    }
+    },
+    {
+      "files": "*.js",
+      "options": {
+        "trailingComma": "es5",
+        "tabWidth": 2,
+        "semi": false,
+        "singleQuote": true,
+        "bracketSpacing": true,
+        "arrowParens": "avoid"
+      }
+    }  
   ]
 }

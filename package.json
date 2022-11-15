@@ -1,6 +1,6 @@
 {
   "name": "@aaronjan98/solidity-prettier-conf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My linter and formatter configurations for solidity projects",
   "main": "index.json",
   "scripts": {
