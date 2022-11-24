@@ -25,6 +25,14 @@
         "bracketSpacing": true,
         "arrowParens": "avoid"
       }
-    }  
+    },
+    {
+      "files": "*.json",
+      "options": {
+        "tabWidth": 2,
+        "singleQuote": false,
+        "bracketSpacing": true
+      }
+    }
   ]
 }
